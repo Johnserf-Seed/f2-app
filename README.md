@@ -8,6 +8,6 @@ This project is a starting point for a Flutter application By [F2](https://githu
 
 ## Screenshot
 
-<img src="https://github.com/Johnserf-Seed/f2-app/assets/40727745/cd24381a-c405-4ef5-a2e5-71ed70bc9339" width="480" height="1067">
+<img src="https://github.com/Johnserf-Seed/f2-app/assets/40727745/cd24381a-c405-4ef5-a2e5-71ed70bc9339">
 
-<img src="https://github.com/Johnserf-Seed/f2-app/assets/40727745/ef148971-8f8b-413c-8812-6077fd38f001" width="480" height="1067">
+<img src="https://github.com/Johnserf-Seed/f2-app/assets/40727745/ef148971-8f8b-413c-8812-6077fd38f001">
